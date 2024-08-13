@@ -6,5 +6,3 @@ This is a basic Task manager project made in react to pratcice my skills and mak
 3. Event Handling: Event handlers are used for adding, updating, deleting, and toggling tasks.
 4. Conditional Rendering: Conditional rendering is used to display different UI elements based on the editing state of a task.
 5. Styled Components: Styled components are used for styling the app, keeping the styles scoped to the components.
-
-6. 
