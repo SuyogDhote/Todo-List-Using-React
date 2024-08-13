@@ -1,0 +1,24 @@
+/* Add this in a separate file like src/globalStyles.css */
+
+/* Importing a font from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+
+/* CSS Reset and Global Styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #ff9e00;
+  color: #fff;
+}
+
+input,
+button {
+  font-family: inherit;
+  padding: 10px 15px;
+  margin: 10px 0 15px 0;
+}
